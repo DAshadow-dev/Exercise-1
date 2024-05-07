@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        {/* <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
@@ -16,7 +16,13 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
-        </a>
+        </a> */}
+        <p>Full name : Nguyễn Văn Duy An</p>
+        <p>Class : SE17D08</p>
+        <p>School : Da Nang FPT University </p>
+        <p>Description :  Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+           Ullam reprehenderit deserunt neque provident! 
+           Sequi veritatis praesentium molestias fugit aut quod aspernatur id beatae vitae veniam nobis quasi ipsum, delectus est.</p>
       </header>
     </div>
   );
